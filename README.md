@@ -1,4 +1,4 @@
-# Hi, I'm Wanda :hibiscus:
+![Hi, I'm Wanda](https://github.com/WanCirone/wancirone/blob/main/assets/hi.gif)
 
 ## Full Stack Developer :heart: from Argentina to :earth_americas:
 <!--
