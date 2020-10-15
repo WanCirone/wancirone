@@ -1,6 +1,9 @@
 ![Hi, I'm Wanda](https://github.com/WanCirone/wancirone/blob/main/assets/hi.gif)
 
-## Full Stack Developer :heart: from Argentina to :earth_americas:
+<h3 align="center">
+Full Stack Developer :heart: from Argentina to :earth_americas:
+</h3>
+
 <!--
 **WanCirone/wancirone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
