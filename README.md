@@ -33,6 +33,9 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/home.png"></a>
 <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/catalogo.png"></a>
 <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/tablaordenes.png"></a>
+<a><img src="https://github.com/WanCirone/wancirone/blob/main/images/carrito.png"></a>
+<a><img src="https://github.com/WanCirone/wancirone/blob/main/images/reviews.png"></a>
+<a><img src="https://github.com/WanCirone/wancirone/blob/main/images/average.png"></a>
 
 <!--
 **WanCirone/wancirone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
