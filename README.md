@@ -1,4 +1,4 @@
-### Hi, I'm Wanda :hibiscus:
+# Hi, I'm Wanda :hibiscus:
 
 <!--
 **WanCirone/wancirone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
