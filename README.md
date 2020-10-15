@@ -43,7 +43,7 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 
 &nbsp;
 
-## 📫 How to reach me:
+## How to reach me:
 
 <img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png">
 
