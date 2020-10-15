@@ -9,7 +9,7 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 ### :star: Languages and Tools:
 
 <p>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="10%" height="50px" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"></code>
   <code><img width="10%" height="50px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
