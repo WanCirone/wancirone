@@ -43,8 +43,8 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 
 &nbsp;
 
-## How to reach me:
+## :paperclip: How to reach me:
 
-<img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png">
+<a href="https://www.linkedin.com/in/wanda-trinidad-cirone/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png">
 
 
