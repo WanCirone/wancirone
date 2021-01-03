@@ -31,16 +31,22 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 ## :pushpin: My proyects
 
 <p>
-<a><img src="https://github.com/WanCirone/wancirone/blob/main/images/home.png"></a>
-<a><img src="https://github.com/WanCirone/wancirone/blob/main/images/catalogo.png"></a>
-<a><img src="https://github.com/WanCirone/wancirone/blob/main/images/tablaordenes.png"></a>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/home.png"></a>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/catalogo.png"></a>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/tablaordenes.png"></a>
 </p>
-<p align="left">
-<a><img src="https://github.com/WanCirone/wancirone/blob/main/images/carrito.png"></a>
-<a><img src="https://github.com/WanCirone/wancirone/blob/main/images/reviews.png"></a>
-<a><img src="https://github.com/WanCirone/wancirone/blob/main/images/average.png"></a>
+<p>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/carrito.png"></a>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/reviews.png"></a>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/average.png"></a>
 </p>
 
+<h3>Pedidotopia</h3>
+<p>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/tabla.jpg"></a>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/nuevoprod.png"></a>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/imagen.png"></a>
+</p> 
 &nbsp;
 
 ## :paperclip: How to reach me:
