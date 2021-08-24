@@ -31,7 +31,7 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 ## :pushpin: My proyects
 <h3>Videogames Web App</h3>
 <p>
-  <a><img src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI%20henry%201%20(3).png"></a>
+  <a><img width="10%" src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI%20henry%201%20(3).png"></a>
   <a><img src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI%20henry%202.png"></a>
   <a><img src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI%20henry%203.png"></a>
 </p>
