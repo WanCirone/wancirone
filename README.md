@@ -1,4 +1,4 @@
-![Hi, I'm Wanda](https://github.com/fedecontegrand/fedecontegrand/blob/main/Banner de LinkedIn Lugar de Trabajo Ordenado.gif)
+![Hi, I'm Wanda](https://github.com/fedecontegrand/fedecontegrand/blob/main/BannerdeLinkedInLugardeTrabajoOrdenado.gif)
 
 <h2 align="center">
 Full Stack Developer :heart: from Argentina to :earth_americas:
