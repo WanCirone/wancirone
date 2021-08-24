@@ -34,8 +34,6 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
   <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI%20henry%201%20(3).png"></a>
   <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI%20henry%202.png"></a>
   <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI%20henry%203.png"></a>
-</p>
-<p>
   <a><img width="40%" src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI%20henry%204.png"></a>
   <a><img width="40%"  src="https://github.com/fedecontegrand/fedecontegrand/blob/main/images/petStore/PI%20henry%205.png"></a>
 </p>
