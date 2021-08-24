@@ -1,4 +1,4 @@
-![Hi, I'm Wanda](https://github.com/fedecontegrand/fedecontegrand/blob/main/BannerdeLinkedInLugardeTrabajoOrdenado.gif)
+![Hi, I'm Fede](https://github.com/fedecontegrand/fedecontegrand/blob/main/Banner%20de%20LinkedIn%20Lugar%20de%20Trabajo%20Ordenado.gif)
 
 <h2 align="center">
 Full Stack Developer :heart: from Argentina to :earth_americas:
